@@ -1,0 +1,2 @@
+Machine Learning Classifier (Python, Selenium, NumPy, Pandas)
+- Developed machine learning model to predict profit or loss for S&P 500 companies based on employee feedback scraped from Glassdoor using Selenium. Performed data cleaning and feature engineering with Pandas. Compared performance of KNN, Random Forest, and SVM algorithms. Optimized Random Forest model achieved 89% accuracy in predicting profit vs loss.
